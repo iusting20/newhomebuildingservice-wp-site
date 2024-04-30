@@ -1,0 +1,307 @@
+# Copyright (C) 2023 OceanWP
+# This file is distributed under the same license as the Ocean Sticky Header plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Ocean Sticky Header 2.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ocean-sticky-header\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-09-06T05:41:07+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: ocean-sticky-header\n"
+
+#. Plugin Name of the plugin
+msgid "Ocean Sticky Header"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://oceanwp.org/extension/ocean-sticky-header/"
+msgstr ""
+
+#. Description of the plugin
+msgid "A simple extension to attach the header at the top of your screen with an animation."
+msgstr ""
+
+#. Author of the plugin
+msgid "OceanWP"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://oceanwp.org/"
+msgstr ""
+
+#: ocean-sticky-header.php:294
+#: ocean-sticky-header.php:1024
+#: ocean-sticky-header.php:1056
+#: ocean-sticky-header.php:2158
+#: assets/dist/metabox.js:1
+#: src/metabox/index.js:71
+msgid "Sticky Header"
+msgstr ""
+
+#: ocean-sticky-header.php:315
+msgid "Sticky"
+msgstr ""
+
+#: ocean-sticky-header.php:316
+msgid "This option has been designed for the Custom Header style. %1$sLearn more%2$s."
+msgstr ""
+
+#: ocean-sticky-header.php:321
+msgid "Auto"
+msgstr ""
+
+#: ocean-sticky-header.php:322
+msgid "Manual"
+msgstr ""
+
+#: ocean-sticky-header.php:344
+#: ocean-sticky-header.php:1034
+#: assets/dist/metabox.js:1
+#: src/metabox/index.js:36
+msgid "Sticky Top Bar"
+msgstr ""
+
+#: ocean-sticky-header.php:369
+msgid "Sticky Mobile"
+msgstr ""
+
+#: ocean-sticky-header.php:394
+msgid "Full Width Scrolling"
+msgstr ""
+
+#: ocean-sticky-header.php:420
+msgid "No Shadow When Scrolling"
+msgstr ""
+
+#: ocean-sticky-header.php:445
+#: ocean-sticky-header.php:1078
+#: assets/dist/metabox.js:1
+#: src/metabox/index.js:106
+msgid "Sticky Style"
+msgstr ""
+
+#: ocean-sticky-header.php:473
+#: assets/dist/metabox.js:1
+#: src/metabox/index.js:153
+msgid "Sticky Effect"
+msgstr ""
+
+#: ocean-sticky-header.php:474
+msgid "Do not work with all header styles."
+msgstr ""
+
+#: ocean-sticky-header.php:480
+#: assets/dist/metabox.js:1
+#: src/metabox/index.js:163
+msgid "No Effect"
+msgstr ""
+
+#: ocean-sticky-header.php:481
+#: assets/dist/metabox.js:1
+#: src/metabox/index.js:164
+msgid "Slide"
+msgstr ""
+
+#: ocean-sticky-header.php:482
+#: assets/dist/metabox.js:1
+#: src/metabox/index.js:165
+msgid "Show Up/Hide Down"
+msgstr ""
+
+#: ocean-sticky-header.php:504
+msgid "Sticky Height"
+msgstr ""
+
+#: ocean-sticky-header.php:613
+msgid "Sticky Padding (px)"
+msgstr ""
+
+#: ocean-sticky-header.php:656
+msgid "Sticky Opacity"
+msgstr ""
+
+#: ocean-sticky-header.php:684
+#: ocean-sticky-header.php:1123
+#: assets/dist/metabox.js:1
+#: src/metabox/index.js:171
+msgid "Logo"
+msgstr ""
+
+#: ocean-sticky-header.php:706
+msgid "Sticky Logo"
+msgstr ""
+
+#: ocean-sticky-header.php:707
+msgid "If you want to display a different logo when scrolling (optional)"
+msgstr ""
+
+#: ocean-sticky-header.php:730
+msgid "Sticky Retina Logo"
+msgstr ""
+
+#: ocean-sticky-header.php:755
+msgid "Logo Height On Sticky"
+msgstr ""
+
+#: ocean-sticky-header.php:785
+msgid "Styling"
+msgstr ""
+
+#: ocean-sticky-header.php:808
+#: ocean-sticky-header.php:1178
+#: assets/dist/metabox.js:1
+#: src/metabox/index.js:196
+msgid "Background Color"
+msgstr ""
+
+#: ocean-sticky-header.php:832
+#: ocean-sticky-header.php:1195
+#: assets/dist/metabox.js:1
+#: src/metabox/index.js:204
+msgid "Links Color"
+msgstr ""
+
+#: ocean-sticky-header.php:856
+#: ocean-sticky-header.php:1212
+#: assets/dist/metabox.js:1
+#: src/metabox/index.js:212
+msgid "Links Color: Hover"
+msgstr ""
+
+#: ocean-sticky-header.php:880
+#: ocean-sticky-header.php:1229
+msgid "Current Menu Item Color"
+msgstr ""
+
+#: ocean-sticky-header.php:904
+#: ocean-sticky-header.php:1246
+#: assets/dist/metabox.js:1
+#: src/metabox/index.js:228
+msgid "Links Background Color"
+msgstr ""
+
+#: ocean-sticky-header.php:928
+#: ocean-sticky-header.php:1263
+#: assets/dist/metabox.js:1
+#: src/metabox/index.js:236
+msgid "Links Background Color: Hover"
+msgstr ""
+
+#: ocean-sticky-header.php:952
+#: ocean-sticky-header.php:1280
+msgid "Current Menu Item Background"
+msgstr ""
+
+#: ocean-sticky-header.php:1035
+msgid "Disable the sticky top bar on this page/post."
+msgstr ""
+
+#: ocean-sticky-header.php:1037
+#: ocean-sticky-header.php:1059
+#: ocean-sticky-header.php:1081
+#: assets/dist/metabox.js:1
+#: src/metabox/index.js:49
+#: src/metabox/index.js:84
+#: src/metabox/index.js:119
+msgid "Default"
+msgstr ""
+
+#: ocean-sticky-header.php:1038
+#: ocean-sticky-header.php:1060
+#: assets/dist/metabox.js:1
+#: src/metabox/index.js:62
+#: src/metabox/index.js:97
+msgid "Disable"
+msgstr ""
+
+#: ocean-sticky-header.php:1057
+msgid "Disable the sticky header on this page/post."
+msgstr ""
+
+#: ocean-sticky-header.php:1079
+msgid "Choose your sticky style on this page/post."
+msgstr ""
+
+#: ocean-sticky-header.php:1082
+#: assets/dist/metabox.js:1
+#: src/metabox/index.js:132
+msgid "Shrink"
+msgstr ""
+
+#: ocean-sticky-header.php:1083
+#: assets/dist/metabox.js:1
+#: src/metabox/index.js:145
+msgid "Fixed"
+msgstr ""
+
+#: ocean-sticky-header.php:1124
+msgid "Select a custom sticky logo on this page/post."
+msgstr ""
+
+#: ocean-sticky-header.php:1140
+#: assets/dist/metabox.js:1
+#: src/metabox/index.js:176
+msgid "Retina Logo"
+msgstr ""
+
+#: ocean-sticky-header.php:1141
+msgid "Select a custom retina sticky logo on this page/post."
+msgstr ""
+
+#: ocean-sticky-header.php:1157
+#: assets/dist/metabox.js:1
+#: src/metabox/index.js:181
+msgid "Logo Height On Sticky (px)"
+msgstr ""
+
+#: ocean-sticky-header.php:1158
+msgid "Enter the height of your logo when you scroll."
+msgstr ""
+
+#: ocean-sticky-header.php:1179
+msgid "Select a color. Hex code, ex: #555"
+msgstr ""
+
+#: ocean-sticky-header.php:1196
+#: ocean-sticky-header.php:1264
+#: ocean-sticky-header.php:1298
+msgid "Select a color. Hex code, ex: #fff"
+msgstr ""
+
+#: ocean-sticky-header.php:1213
+#: ocean-sticky-header.php:1281
+#: ocean-sticky-header.php:1315
+msgid "Select a color. Hex code, ex: #13aff0"
+msgstr ""
+
+#: ocean-sticky-header.php:1230
+#: ocean-sticky-header.php:1247
+msgid "Select a color. Hex code, ex: #333"
+msgstr ""
+
+#: ocean-sticky-header.php:1297
+#: assets/dist/metabox.js:1
+#: src/metabox/index.js:252
+msgid "Simple Social Links Color"
+msgstr ""
+
+#: ocean-sticky-header.php:1314
+#: assets/dist/metabox.js:1
+#: src/metabox/index.js:260
+msgid "Simple Social Links Color: Hover"
+msgstr ""
+
+#: assets/dist/metabox.js:1
+#: src/metabox/index.js:220
+msgid "Links Color: Active"
+msgstr ""
+
+#: assets/dist/metabox.js:1
+#: src/metabox/index.js:244
+msgid "Links Background Color: Active"
+msgstr ""
