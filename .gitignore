@@ -58,3 +58,4 @@ wp-includes/
 .hcflag
 .htaccess.bk
 .well-known/pki-validation/9FAF7DE93005C2205F7A6CFD96B327FB.txt
+error_log
